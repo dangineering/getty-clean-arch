@@ -1,0 +1,1 @@
+# getty-clean-arch
